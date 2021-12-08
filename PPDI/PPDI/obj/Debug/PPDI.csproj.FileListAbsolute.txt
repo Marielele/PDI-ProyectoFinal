@@ -25,3 +25,30 @@ Z:\marie\Documents\Facu\6to 7mo y 8vo\Procesamiento de imagenes\PPDI\PPDI\bin\De
 Z:\marie\Documents\Facu\6to 7mo y 8vo\Procesamiento de imagenes\PPDI\PPDI\bin\Debug\Emgu.CV.World.xml
 Z:\marie\Documents\Facu\6to 7mo y 8vo\Procesamiento de imagenes\PPDI\PPDI\obj\Debug\PPDI.Form4.resources
 Z:\marie\Documents\Facu\6to 7mo y 8vo\Procesamiento de imagenes\PPDI\PPDI\obj\Debug\PPDI.csproj.CopyComplete
+Z:\marie\Documents\Proyectos\PDI-ProyectoFinal\PPDI\PPDI\bin\Debug\concrt140.dll
+Z:\marie\Documents\Proyectos\PDI-ProyectoFinal\PPDI\PPDI\bin\Debug\cvextern.dll
+Z:\marie\Documents\Proyectos\PDI-ProyectoFinal\PPDI\PPDI\bin\Debug\msvcp140.dll
+Z:\marie\Documents\Proyectos\PDI-ProyectoFinal\PPDI\PPDI\bin\Debug\opencv_ffmpeg330_64.dll
+Z:\marie\Documents\Proyectos\PDI-ProyectoFinal\PPDI\PPDI\bin\Debug\vcruntime140.dll
+Z:\marie\Documents\Proyectos\PDI-ProyectoFinal\PPDI\PPDI\bin\Debug\cvextern.lib
+Z:\marie\Documents\Proyectos\PDI-ProyectoFinal\PPDI\PPDI\bin\Debug\PPDI.exe.config
+Z:\marie\Documents\Proyectos\PDI-ProyectoFinal\PPDI\PPDI\bin\Debug\PPDI.exe
+Z:\marie\Documents\Proyectos\PDI-ProyectoFinal\PPDI\PPDI\bin\Debug\PPDI.pdb
+Z:\marie\Documents\Proyectos\PDI-ProyectoFinal\PPDI\PPDI\bin\Debug\Emgu.CV.World.dll
+Z:\marie\Documents\Proyectos\PDI-ProyectoFinal\PPDI\PPDI\bin\Debug\Emgu.CV.World.xml
+Z:\marie\Documents\Proyectos\PDI-ProyectoFinal\PPDI\PPDI\bin\Debug\Interop.WMPLib.dll
+Z:\marie\Documents\Proyectos\PDI-ProyectoFinal\PPDI\PPDI\bin\Debug\AxInterop.WMPLib.dll
+Z:\marie\Documents\Proyectos\PDI-ProyectoFinal\PPDI\PPDI\obj\Debug\PPDI.csproj.AssemblyReference.cache
+Z:\marie\Documents\Proyectos\PDI-ProyectoFinal\PPDI\PPDI\obj\Debug\Interop.WMPLib.dll
+Z:\marie\Documents\Proyectos\PDI-ProyectoFinal\PPDI\PPDI\obj\Debug\AxInterop.WMPLib.dll
+Z:\marie\Documents\Proyectos\PDI-ProyectoFinal\PPDI\PPDI\obj\Debug\PPDI.csproj.ResolveComReference.cache
+Z:\marie\Documents\Proyectos\PDI-ProyectoFinal\PPDI\PPDI\obj\Debug\PPDI.Form1.resources
+Z:\marie\Documents\Proyectos\PDI-ProyectoFinal\PPDI\PPDI\obj\Debug\PPDI.Form2.resources
+Z:\marie\Documents\Proyectos\PDI-ProyectoFinal\PPDI\PPDI\obj\Debug\PPDI.Form3.resources
+Z:\marie\Documents\Proyectos\PDI-ProyectoFinal\PPDI\PPDI\obj\Debug\PPDI.Form4.resources
+Z:\marie\Documents\Proyectos\PDI-ProyectoFinal\PPDI\PPDI\obj\Debug\PPDI.Properties.Resources.resources
+Z:\marie\Documents\Proyectos\PDI-ProyectoFinal\PPDI\PPDI\obj\Debug\PPDI.csproj.GenerateResource.cache
+Z:\marie\Documents\Proyectos\PDI-ProyectoFinal\PPDI\PPDI\obj\Debug\PPDI.csproj.CoreCompileInputs.cache
+Z:\marie\Documents\Proyectos\PDI-ProyectoFinal\PPDI\PPDI\obj\Debug\PPDI.csproj.CopyComplete
+Z:\marie\Documents\Proyectos\PDI-ProyectoFinal\PPDI\PPDI\obj\Debug\PPDI.exe
+Z:\marie\Documents\Proyectos\PDI-ProyectoFinal\PPDI\PPDI\obj\Debug\PPDI.pdb
